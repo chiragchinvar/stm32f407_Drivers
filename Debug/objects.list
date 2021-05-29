@@ -1,0 +1,8 @@
+"Src/005_ArduinoTx.o"
+"Src/006_i2c_arduino_master.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f407vgtx.o"
+"drivers/src/stm32f407_gpio.o"
+"drivers/src/stm32f407_i2c.o"
+"drivers/src/stm32f407_spi.o"

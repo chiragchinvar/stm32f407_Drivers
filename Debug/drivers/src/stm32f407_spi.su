@@ -1,0 +1,9 @@
+stm32f407_spi.c:15:6:SPI_PeriClockControl	16	static
+stm32f407_spi.c:35:6:SPI_Init	24	static
+stm32f407_spi.c:84:6:SPI_DeInit	16	static
+stm32f407_spi.c:94:6:SPI_SendData	24	static
+stm32f407_spi.c:115:6:SPI_ReceiveData	24	static
+stm32f407_spi.c:153:6:SPI_PeripheralControl	16	static
+stm32f407_spi.c:182:7:SPI_SSIConfig	16	static
+stm32f407_spi.c:209:7:SPI_SSOEConfig	16	static
+stm32f407_spi.c:236:9:SPI_GetFlagStatus	16	static
